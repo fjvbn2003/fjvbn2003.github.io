@@ -94,11 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "fjvbn2003"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "알고리즘, AI/머신러닝을 공부하고 있습니다."
+  email            : "fjvbn2003@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
